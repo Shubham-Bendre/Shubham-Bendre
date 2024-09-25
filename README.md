@@ -11,7 +11,7 @@ I'm a **tech enthusiast** with a passion for **web development** and building co
 
 
 ## 🎮 What I Do for Fun
-- **Gaming**: From strategic **game jams** (which I won 🎉) to casual gaming breaks, I find joy in digital adventures!
+- **Gaming**: From strategic **game jams** (which I suprisingly won one🎉) to casual gaming breaks, I find joy in digital adventures!
 - **Hackathons**: Competitions fuel my creativity, and I can't resist the thrill of building something cool under pressure.
 
 
