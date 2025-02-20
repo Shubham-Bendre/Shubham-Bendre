@@ -1,7 +1,3 @@
-Here's a cleaner, more polished version with a touch of personality:  
-
----
-
 # 👋 Hey, I'm Shubham Bendre!  
 
 ## 🚀 About Me  
