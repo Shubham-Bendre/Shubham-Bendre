@@ -74,6 +74,6 @@ When I step away from the keyboard, you'll find me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Shubham-Bendre&style=flat-square&color=blue)
 
 </div>
