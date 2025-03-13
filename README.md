@@ -67,12 +67,7 @@ When I step away from the keyboard, you'll find me:
 ---
 
 <div align="center">
-  
-### 🔗 Let's Connect and Build Something Amazing!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubham-Bendre&style=flat-square&color=blue)
 
