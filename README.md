@@ -11,11 +11,6 @@
 
 I'm a **full-stack developer** with a passion for building **scalable, real-world solutions** that matter. To me, coding isn't just pushing text to a screen—it's architecting digital experiences that solve genuine problems. Each line of code is an opportunity to create something impactful! 💡
 
-<details>
-<summary>🔍 More about my journey</summary>
-<br>
-I thrive in fast-paced environments where innovation meets practicality. My development philosophy centers around creating clean, maintainable code that scales with business needs while providing exceptional user experiences.
-</details>
 
 ## 🚀 What Drives Me
 
